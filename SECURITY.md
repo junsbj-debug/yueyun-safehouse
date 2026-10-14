@@ -4,9 +4,9 @@ Safehouse is currently a documentation initiative with no reference implementati
 
 ## Reporting sensitive concerns
 
-GitHub Private Vulnerability Reporting has not yet been enabled and verified for this repository. Do not submit sensitive details through public issues. If no verified private reporting channel is available, request a private contact route using only a non-sensitive summary and wait for confirmation.
+GitHub Private Vulnerability Reporting is enabled, and the reporting entry point has been verified. Test submission and maintainer receipt have not yet been verified.
 
-During the public transition, before announcing the release, the maintainer must enable and test private vulnerability reporting on the actual repository and update this document. No placeholder email is provided.
+Use the Report a vulnerability entry on the repository Security page to access the private reporting channel. Do not submit sensitive details through public issues. If the entry is unavailable, request a private contact route using only a non-sensitive summary and wait for confirmation. No placeholder email is provided.
 
 Do not send credentials, personal memories, identifiable conversations, raw audits or full Context. Use minimal invented examples, describe impact and affected document version, and keep sensitive details out of titles. Do not access other people's data or test systems without authorization.
 
