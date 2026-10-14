@@ -6,7 +6,7 @@
 
 **Status:** Early research initiative · No Safehouse reference implementation · No independent security certification
 
-One initiator currently maintains the initiative. Governance and name-use rules remain undecided. This local publication package awaits human review and has not been published. It is intended as a concise engineering collaboration entry point for global developers. The YueYun White Paper 3.0 is the intended home for the broader ideas, social mechanisms and long-term framework; it is not included or independently reviewed here.
+One initiator currently maintains the initiative. Governance and name-use rules remain undecided. This repository hosts the documentation and discussion drafts for the initiative. It is intended as a concise engineering collaboration entry point for global developers. The YueYun White Paper 3.0 is the intended home for the broader ideas, social mechanisms and long-term framework; it is not included or independently reviewed here.
 
 ## The Problem
 
@@ -124,7 +124,7 @@ Developers, security researchers, privacy engineers, standards contributors, and
 
 Useful contributions include threat models, minimal schemas, protocol critiques, test cases, independent implementations, and privacy reviews.
 
-Once the repository is published, use GitHub Issues for proposals and design discussions. See the [contribution guide](CONTRIBUTING.md), [security reporting policy](SECURITY.md) and [code of conduct](CODE_OF_CONDUCT.md). GitHub Private Vulnerability Reporting is the preferred proposed channel; its actual availability has not been confirmed. Do not post sensitive details in public issues.
+Use GitHub Issues for proposals and design discussions. See the [contribution guide](CONTRIBUTING.md), [security reporting policy](SECURITY.md) and [code of conduct](CODE_OF_CONDUCT.md). GitHub Private Vulnerability Reporting is the preferred proposed channel; its actual availability has not been confirmed. Do not post sensitive details in public issues.
 
 Do not submit personal memories, identifiable conversations, credentials or raw runtime audits. These contribution areas invite discussion; they do not indicate existing implementations or automatically authorize new engineering work.
 
@@ -140,6 +140,6 @@ This project is not legal advice, a finalized standard, or a security certificat
 
 ## Publication and Licensing
 
-The public documents and specification explicitly included in this repository's [license scope](LICENSE-SCOPE.md) are licensed under [CC BY 4.0](LICENSE). Future reference-implementation code is planned to use Apache License 2.0, with the code's scope and notices established when it is released. YueYun branding, logos and White Paper 3.0 are not automatically included. This decision does not license all future materials. This remains a local review package and has not been publicly released.
+The public documents and specification explicitly included in this repository's [license scope](LICENSE-SCOPE.md) are licensed under [CC BY 4.0](LICENSE). Future reference-implementation code is planned to use Apache License 2.0, with the code's scope and notices established when it is released. YueYun branding, logos and White Paper 3.0 are not automatically included. This decision does not license all future materials. This repository contains an early research initiative and discussion drafts, not a completed implementation or released standard.
 
 **Evidence first. User control by design. Open collaboration.**
